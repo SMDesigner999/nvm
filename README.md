@@ -1,5 +1,5 @@
 # nvm
-node js many node js
+node js many node js <br>
 PowerShell open admin открыть именем админа
 nvm ls : show all node js and curently || nvm list  показывает сколько установлено node js
 nvm arch  : Show if node js is running in 32 or 64 bit node js. показывает бит поумалчании (32 или 64)
